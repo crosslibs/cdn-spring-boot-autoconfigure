@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.cdn.autoconfiguration.CDNAutoConfiguration,\
+com.example.cdn.implementation.CloudCDN
